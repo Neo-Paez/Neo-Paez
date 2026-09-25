@@ -1,16 +1,16 @@
 ## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F0FF&center=true&vcenter=true&width=550&lines=%C2%A1Hola!+Soy+[Neo Páez Hernández]+👋;Estudiante+de+DAM;Futuro+Multiplatform+Developer" alt="Typing SVG" />
+</h1>
 
-<!--
-**Neo-Paez/Neo-Paez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudiante-DAM_(Multiplataforma)-00F0FF?style=for-the-badge&logo=android&logoColor=black" />
+  <img src="https://img.shields.io/badge/Estado-Aprendiendo_y_Construyendo-FF007F?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+<P>   ╔════════════════════════════════════════════════════════════════╗
+      ║  💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma   ║
+      ║  📱 Aprendiendo backend, apps móviles, bases de datos y más    ║
+      ╚════════════════════════════════════════════════════════════════╝
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
